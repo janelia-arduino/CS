@@ -1,0 +1,4 @@
+CS	KEYWORD1
+begin	KEYWORD2
+SPIselect	KEYWORD2
+
