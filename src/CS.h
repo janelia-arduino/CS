@@ -8,6 +8,7 @@
 
 #ifndef CS_H_
 #define CS_H_
+#include <Arduino.h>
 
 #define NO_CS 8
 #define MCP_CS 7
@@ -39,7 +40,3 @@ class CSClass
 extern CSClass CS;
 
 #endif // CS
-
-
-
-

@@ -5,13 +5,7 @@
 //
 // Author: Steve Sawtelle
 // ----------------------------------------------------------------------------
-#if defined(ARDUINO) && ARDUINO >= 100
-#include "Arduino.h"
-#else
-#include "WProgram.h"
-#endif
 #include "CS.h"
-//#include <Streaming.h>
 
 //---------- constructor ----------------------------------------------------
 
