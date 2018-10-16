@@ -24,11 +24,11 @@
 
 class CSClass
 {
- public:
+public:
   void begin(int,int,int,int);
   void SPIselect(uint8_t chip);
 
- private:
+private:
 
   int en_pin;
   int adr0_pin;

@@ -2,10 +2,8 @@
 
 Authors:
 
-    Steve Sawtelle sawtelles@janelia.hhmi.org
+Steve Sawtelle sawtelles@janelia.hhmi.org
 
 License:
 
-    BSD
-
-
+BSD
